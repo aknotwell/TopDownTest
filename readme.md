@@ -14,7 +14,7 @@
 
 
 
-![](./images/githubcloneinfo.png)
+![githubcloneinfo](./images/githubcloneinfo.png)
 
 ## Git Ignore File
 
