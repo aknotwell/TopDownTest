@@ -4,7 +4,7 @@
 
 
 1. Copy and paste the git ignore file below into a text editor.
-2. Save text file as _.gitignore_ in the Unity Game Project Directory. 
+2. Save text file as _.gitignore_ in your Unity Game Project Directory. 
 3. Open git bash and change to Unity Game Project Directory using the `cd` command.
 4. Run the following command to initialize your local repository: `git init --initial-branch=main`.
 5. Add git ignore file: `git add .gitignore`.
