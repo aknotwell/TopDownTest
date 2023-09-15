@@ -14,7 +14,8 @@
 9. Push local changes remotely: `git push --set-upstream origin main`.
 
 
-![](./images/githubcloneinfo.png)
+
+![githubcloneinfo](./images/githubcloneinfo.png)
 
 ## Git Ignore File
 
