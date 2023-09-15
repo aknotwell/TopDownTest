@@ -6,15 +6,15 @@
 1. Copy and paste the git ignore file below into a text editor.
 2. Save text file as _.gitignore_ in the Unity Game Project Directory. 
 3. Open git bash and change to Unity Game Project Directory using the `cd` command.
-4. Run the following command to initialize your local repository: `git init`.
+4. Run the following command to initialize your local repository: `git init --initial-branch=main`.
 5. Add git ignore file: `git add .gitignore`.
 6. Commit locally: `git commit -m "Initial Commit with ignore"`.
 7. [Create Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub and copy clone link. (see screenshot below)
 8. Link local repository to the newly created repository: `git remote add origin <GITHUB_REPOSITORY_URL>`
+9. Push local changes remotely: `git push --set-upstream origin main`.
 
 
-
-![](./images/Github_clone_info.png)
+![](./images/githubcloneinfo.png)
 
 ## Git Ignore File
 
